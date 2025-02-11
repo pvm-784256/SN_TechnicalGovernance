@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="15165edb83631210dd2e9cb6feaad3a1" sys_domain="global" table="x_448357_technical_change_proposal" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:34:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11165edb83631210dd2e9cb6feaad3a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_change_proposal" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">15165edb83631210dd2e9cb6feaad3a1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:34:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:34:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51165edb83631210dd2e9cb6feaad3a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_change_proposal" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">15165edb83631210dd2e9cb6feaad3a1</sys_ui_form>
+            <sys_ui_section caption="Solution Overview" display_value="Solution Overview" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">99165edb83631210dd2e9cb6feaad3a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:34:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:35:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae56da1f83631210dd2e9cb6feaad3fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_change_proposal" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">15165edb83631210dd2e9cb6feaad3a1</sys_ui_form>
+            <sys_ui_section caption="Risks &amp; Mitigations" display_value="Risks &amp; Mitigations" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">e656161f83631210dd2e9cb6feaad3d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:35:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7129d21383a31210dd2e9cb6feaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_change_proposal" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">15165edb83631210dd2e9cb6feaad3a1</sys_ui_form>
+            <sys_ui_section caption="Governance Considerations" display_value="Governance Considerations" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">7d29d21383a31210dd2e9cb6feaad325</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:47:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:49:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc6992df83631210dd2e9cb6feaad3a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_change_proposal" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">15165edb83631210dd2e9cb6feaad3a1</sys_ui_form>
+            <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:49:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_448357_technical_change_proposal</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:34:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15165edb83631210dd2e9cb6feaad3a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448357_technical_change_proposal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_15165edb83631210dd2e9cb6feaad3a1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:34:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

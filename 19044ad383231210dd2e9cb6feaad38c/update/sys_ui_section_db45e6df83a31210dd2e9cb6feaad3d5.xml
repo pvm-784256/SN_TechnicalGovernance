@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Impact Analysis" section_id="db45e6df83a31210dd2e9cb6feaad3d5" sys_domain="global" table="x_448357_technical_solution_design" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>performance_impact</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 14:41:34</sys_created_on>
+            <sys_id>b265261383e31210dd2e9cb6feaad33e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact Analysis" display_value="Impact Analysis" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">db45e6df83a31210dd2e9cb6feaad3d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 14:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>upgradeablity_impact</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 14:41:34</sys_created_on>
+            <sys_id>3a65261383e31210dd2e9cb6feaad33e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact Analysis" display_value="Impact Analysis" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">db45e6df83a31210dd2e9cb6feaad3d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 14:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>security_impact</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 14:41:34</sys_created_on>
+            <sys_id>be65261383e31210dd2e9cb6feaad33e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact Analysis" display_value="Impact Analysis" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">db45e6df83a31210dd2e9cb6feaad3d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 14:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>licensing_impact</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 14:41:34</sys_created_on>
+            <sys_id>3665261383e31210dd2e9cb6feaad33f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact Analysis" display_value="Impact Analysis" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">db45e6df83a31210dd2e9cb6feaad3d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 14:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>configuration_impact</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 14:41:34</sys_created_on>
+            <sys_id>ba65261383e31210dd2e9cb6feaad33f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact Analysis" display_value="Impact Analysis" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">db45e6df83a31210dd2e9cb6feaad3d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 14:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Impact Analysis</caption>
+            <header>false</header>
+            <name>x_448357_technical_solution_design</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 14:41:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db45e6df83a31210dd2e9cb6feaad3d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448357_technical_solution_design</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+            <sys_update_name>sys_ui_section_db45e6df83a31210dd2e9cb6feaad3d5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 14:41:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
