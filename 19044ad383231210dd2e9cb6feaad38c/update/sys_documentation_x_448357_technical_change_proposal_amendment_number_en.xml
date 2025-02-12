@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_448357_technical_change_proposal_amendment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_448357_technical_change_proposal_amendment</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 15:46:22</sys_created_on>
+            <sys_id>f334b61783271210dd2e9cb6feaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+            <sys_update_name>sys_documentation_x_448357_technical_change_proposal_amendment_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 15:46:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

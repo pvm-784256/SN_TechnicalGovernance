@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="change_details" label="Change Details" language="en" table="x_448357_technical_change_proposal_amendment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>change_details</element>
+            <help/>
+            <hint/>
+            <label>Change Details</label>
+            <language>en</language>
+            <name>x_448357_technical_change_proposal_amendment</name>
+            <plural>Change Details</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 18:53:49</sys_created_on>
+            <sys_id>792f9f9783e71210dd2e9cb6feaad3c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Change Details</sys_name>
+            <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+            <sys_update_name>sys_documentation_x_448357_technical_change_proposal_amendment_change_details_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 18:53:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

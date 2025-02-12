@@ -116,5 +116,25 @@
             <sys_updated_on>2025-02-11 14:34:20</sys_updated_on>
             <value>rejected</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requires Rework</label>
+            <language>en</language>
+            <name>x_448357_technical_solution_design</name>
+            <sequence>600</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 19:38:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d592f17832b1210dd2e9cb6feaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 19:38:33</sys_updated_on>
+            <value>rework</value>
+        </sys_choice>
     </sys_choice>
 </record_update>

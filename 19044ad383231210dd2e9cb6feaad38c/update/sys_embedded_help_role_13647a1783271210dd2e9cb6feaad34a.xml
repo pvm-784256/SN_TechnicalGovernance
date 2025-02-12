@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_448357_technical.solution_design_amendment_user" name="x_448357_technical.solution_design_amendment_user">d3647a1783271210dd2e9cb6feaad348</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 15:47:09</sys_created_on>
+        <sys_id>13647a1783271210dd2e9cb6feaad34a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d3647a1783271210dd2e9cb6feaad348</sys_name>
+        <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_13647a1783271210dd2e9cb6feaad34a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 15:47:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

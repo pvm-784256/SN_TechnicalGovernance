@@ -13,7 +13,7 @@
         <label>Change Proposal</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_448357_technical_change_proposal</name>
-        <number_ref display_value="CHAPRP">08e60a1b83231210dd2e9cb6feaad352</number_ref>
+        <number_ref display_value="CHGPRP">08e60a1b83231210dd2e9cb6feaad352</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>

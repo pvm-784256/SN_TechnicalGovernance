@@ -4,13 +4,13 @@
             <element>solution_description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 14:42:11</sys_created_on>
-            <sys_id>bb85661383e31210dd2e9cb6feaad30b</sys_id>
+            <sys_created_on>2025-02-11 20:01:49</sys_created_on>
+            <sys_id>35bea31f832b1210dd2e9cb6feaad3b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technical Design" display_value="Technical Design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">7fe4a2df83a31210dd2e9cb6feaad3f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 14:42:11</sys_updated_on>
+            <sys_updated_on>2025-02-11 20:01:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,83 +18,13 @@
             <element>diagram</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 14:42:11</sys_created_on>
-            <sys_id>3385661383e31210dd2e9cb6feaad30c</sys_id>
+            <sys_created_on>2025-02-11 20:01:49</sys_created_on>
+            <sys_id>b9bea31f832b1210dd2e9cb6feaad3b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Technical Design" display_value="Technical Design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">7fe4a2df83a31210dd2e9cb6feaad3f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 14:42:11</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>dependencies</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 14:42:11</sys_created_on>
-            <sys_id>b785661383e31210dd2e9cb6feaad30c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technical Design" display_value="Technical Design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">7fe4a2df83a31210dd2e9cb6feaad3f6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 14:42:11</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>integrations</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 14:42:11</sys_created_on>
-            <sys_id>3f85661383e31210dd2e9cb6feaad30c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technical Design" display_value="Technical Design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">7fe4a2df83a31210dd2e9cb6feaad3f6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 14:42:11</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>required_modules</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 14:42:11</sys_created_on>
-            <sys_id>b385661383e31210dd2e9cb6feaad30d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technical Design" display_value="Technical Design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">7fe4a2df83a31210dd2e9cb6feaad3f6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 14:42:11</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>data_management</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 14:42:11</sys_created_on>
-            <sys_id>3b85661383e31210dd2e9cb6feaad30d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technical Design" display_value="Technical Design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">7fe4a2df83a31210dd2e9cb6feaad3f6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 14:42:11</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>data_model</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 14:42:11</sys_created_on>
-            <sys_id>bf85661383e31210dd2e9cb6feaad30d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Technical Design" display_value="Technical Design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">7fe4a2df83a31210dd2e9cb6feaad3f6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 14:42:11</sys_updated_on>
+            <sys_updated_on>2025-02-11 20:01:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
