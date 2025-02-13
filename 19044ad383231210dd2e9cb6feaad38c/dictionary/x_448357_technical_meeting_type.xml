@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="75f0fc80833b1210dd2e9cb6feaad333" label="Meeting Type" max_length="40" name="x_448357_technical_meeting_type" type="collection">
+        <element label="Description" max_length="200" name="description" type="string"/>
+        <element label="Name" max_length="50" name="name" type="string"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+    </element>
+</database>

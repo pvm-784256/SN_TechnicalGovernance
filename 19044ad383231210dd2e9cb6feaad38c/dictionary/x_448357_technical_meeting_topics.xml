@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="e62c288883b71210dd2e9cb6feaad35d" label="Meeting Topics" max_length="40" name="x_448357_technical_meeting_topics" type="collection">
         <element label="Topic" max_length="1000" name="topic" type="string"/>
+        <element label="Change Proposal" max_length="32" name="change_proposal" reference="x_448357_technical_change_proposal" type="reference"/>
         <element label="Governance Meeting" max_length="32" name="governance_meeting" reference="x_448357_technical_governance_meeting" type="reference"/>
         <element label="Allotted Time" max_length="40" name="allotted_time" type="glide_duration"/>
         <element label="Work notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <element label="Solution Design" max_length="32" name="solution_design" reference="x_448357_technical_solution_design" type="reference"/>
         <index name="index">
+            <element name="change_proposal"/>
+        </index>
+        <index name="index2">
             <element name="governance_meeting"/>
+        </index>
+        <index name="index3">
+            <element name="solution_design"/>
         </index>
     </element>
 </database>

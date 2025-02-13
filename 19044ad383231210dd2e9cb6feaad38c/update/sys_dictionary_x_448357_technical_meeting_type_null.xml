@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="notes" table="x_448357_technical_governance_meeting">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_448357_technical_meeting_type">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Meeting Notes</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,16 +26,16 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>notes</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="HTML">html</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
-        <max_length>8000</max_length>
-        <name>x_448357_technical_governance_meeting</name>
+        <max_length>40</max_length>
+        <name>x_448357_technical_meeting_type</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-13 09:59:51</sys_created_on>
-        <sys_name>Meeting Notes</sys_name>
+        <sys_created_on>2025-02-13 14:08:27</sys_created_on>
+        <sys_name>x_448357_technical_meeting_type</sys_name>
         <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
-        <sys_update_name>sys_dictionary_x_448357_technical_governance_meeting_notes</sys_update_name>
+        <sys_update_name>sys_dictionary_x_448357_technical_meeting_type_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-13 14:57:42</sys_updated_on>
+        <sys_updated_on>2025-02-13 14:08:27</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
