@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices>work_notes,comments_and_work_notes,state</choices>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_448357_technical.glide.ui.x_448357_technical_change_proposal_activity.fields</name>
+        <read_roles/>
+        <suffix>glide.ui.x_448357_technical_change_proposal_activity.fields</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 07:40:59</sys_created_on>
+        <sys_id>be9e466783631210dd2e9cb6feaad3e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_448357_technical.glide.ui.x_448357_technical_change_proposal_activity.fields</sys_name>
+        <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+        <sys_update_name>sys_properties_be9e466783631210dd2e9cb6feaad3e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 07:40:59</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=be9e466783631210dd2e9cb6feaad3e7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</application>
+        <file_path/>
+        <instance_id>62e9d58fdb99c29402022a59139619f4</instance_id>
+        <instance_name>dev256023</instance_name>
+        <name>sys_properties_be9e466783631210dd2e9cb6feaad3e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>work_notes,comments_and_work_notes,state</choices><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_448357_technical.glide.ui.x_448357_technical_change_proposal_activity.fields</name><read_roles/><suffix>glide.ui.x_448357_technical_change_proposal_activity.fields</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-12 07:40:59</sys_created_on><sys_id>be9e466783631210dd2e9cb6feaad3e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_448357_technical.glide.ui.x_448357_technical_change_proposal_activity.fields</sys_name><sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package><sys_policy/><sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope><sys_update_name>sys_properties_be9e466783631210dd2e9cb6feaad3e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-12 07:40:59</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=be9e466783631210dd2e9cb6feaad3e7"/></record_update>]]></payload>
+        <payload_hash>-420141572</payload_hash>
+        <record_name>x_448357_technical.glide.ui.x_448357_technical_change_proposal_activity.fields</record_name>
+        <reverted_from/>
+        <source>ed044ad383231210dd2e9cb6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 07:41:00</sys_created_on>
+        <sys_id>77be0a2783631210dd2e9cb6feaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f91aa48c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 07:41:00</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>7bbe0a2763631210025860a21388181f</update_guid>
+        <update_guid_history>7bbe0a2763631210025860a21388181f:-420141572</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 07:43:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>1c11c7ca1e4945ee88404ce2baf3cca4</sys_id>
+        <sys_metadata>be9e466783631210dd2e9cb6feaad3e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_448357_technical.glide.ui.x_448357_technical_change_proposal_activity.fields</sys_name>
+        <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+        <sys_scope_delete display_value="">121e42061b8c4a9283bacd18b0955c24</sys_scope_delete>
+        <sys_update_name>sys_properties_be9e466783631210dd2e9cb6feaad3e7</sys_update_name>
+        <sys_update_version display_value="sys_properties_be9e466783631210dd2e9cb6feaad3e7">77be0a2783631210dd2e9cb6feaad320</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 07:43:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

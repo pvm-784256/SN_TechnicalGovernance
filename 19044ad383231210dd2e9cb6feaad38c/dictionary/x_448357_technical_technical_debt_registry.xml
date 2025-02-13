@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="92ad1ed383a31210dd2e9cb6feaad3a1" label="Technical Debt Registry" max_length="40" name="x_448357_technical_technical_debt_registry" type="collection">
+        <element label="Change Proposal" max_length="32" name="change_proposal" reference="x_448357_technical_change_proposal" type="reference"/>
+        <element label="Impact Area" max_length="50" name="impact_area" type="string"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Solution Design" max_length="32" name="solution_design" reference="x_448357_technical_solution_design" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Cause" max_length="1000" name="cause" type="string"/>
+        <element label="Justification" max_length="1000" name="justification" type="string"/>
+        <element choice="1" label="Source" max_length="50" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Change Proposal" value="change_proposal"/>
+                <element inactive_on_update="false" label="Solution Design" value="solution_design"/>
+            </choice>
+        </element>
+        <element label="Stakeholders to engage" max_length="32" name="stakeholders_to_engage" reference="sys_user" type="reference"/>
+        <element label="Short Description" max_length="200" name="short_description" type="string"/>
+        <element label="Type" max_length="50" name="type" type="string"/>
+        <index name="index">
+            <element name="change_proposal"/>
+        </index>
+        <index name="index2">
+            <element name="solution_design"/>
+        </index>
+        <index name="index3">
+            <element name="stakeholders_to_engage"/>
+        </index>
+    </element>
+</database>

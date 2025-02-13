@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="485f0c0883771210dd2e9cb6feaad3e3" label="x_448357_technical_m2m_Governance Meetings_Solution Designs" max_length="40" name="x_448357_technical_m2m_brdmtg_soldsg" type="collection">
+        <element attributes="encode_utf8=false" label="Governance Meetings" max_length="32" name="x_448357_technical_governance_meeting" reference="x_448357_technical_governance_meeting" type="reference"/>
+        <element attributes="encode_utf8=false" label="Solution Designs" max_length="32" name="x_448357_technical_solution_design" reference="x_448357_technical_solution_design" type="reference"/>
+    </element>
+</database>

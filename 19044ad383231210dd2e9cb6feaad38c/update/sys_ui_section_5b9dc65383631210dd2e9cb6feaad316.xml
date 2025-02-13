@@ -3,11 +3,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:03</sys_created_on>
-            <sys_id>5fafcea783631210dd2e9cb6feaad301</sys_id>
+            <sys_created_on>2025-02-13 07:00:12</sys_created_on>
+            <sys_id>480f4bbb83231210dd2e9cb6feaad318</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:03</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:12</sys_updated_on>
             <text>Help us define the people needed to assess this proposal by filling below list.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -15,13 +15,13 @@
             <element>proposal</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>afafcea783631210dd2e9cb6feaad3bc</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>5c0f03fb83231210dd2e9cb6feaad30a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -29,13 +29,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>27afcea783631210dd2e9cb6feaad3bd</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>580f03fb83231210dd2e9cb6feaad30b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -43,13 +43,13 @@
             <element>number</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>abafcea783631210dd2e9cb6feaad3bd</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>dc0f03fb83231210dd2e9cb6feaad30b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -57,13 +57,13 @@
             <element>requestor</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>23afcea783631210dd2e9cb6feaad3be</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>540f03fb83231210dd2e9cb6feaad30c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -71,13 +71,13 @@
             <element>type</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>a7afcea783631210dd2e9cb6feaad3be</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>d80f03fb83231210dd2e9cb6feaad30c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -85,13 +85,13 @@
             <element>demand</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>2fafcea783631210dd2e9cb6feaad3be</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>500f03fb83231210dd2e9cb6feaad30d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -99,13 +99,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>a3afcea783631210dd2e9cb6feaad3bf</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>d40f03fb83231210dd2e9cb6feaad30d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -113,13 +113,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>2bafcea783631210dd2e9cb6feaad3bf</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>5c0f03fb83231210dd2e9cb6feaad30d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -127,139 +127,125 @@
             <element>architecture_domains</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>afafcea783631210dd2e9cb6feaad3bf</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>d00f03fb83231210dd2e9cb6feaad30e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>architecture_domain</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>27afcea783631210dd2e9cb6feaad3c0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>architecture_domain.architects</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>abafcea783631210dd2e9cb6feaad3c0</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>580f03fb83231210dd2e9cb6feaad30e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>5fafcea783631210dd2e9cb6feaad301</element>
-            <position>11</position>
+            <element>480f4bbb83231210dd2e9cb6feaad318</element>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>23afcea783631210dd2e9cb6feaad3c1</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>dc0f03fb83231210dd2e9cb6feaad30e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>security_leads</element>
-            <position>12</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>a7afcea783631210dd2e9cb6feaad3c1</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>540f03fb83231210dd2e9cb6feaad30f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>platform_leads</element>
-            <position>13</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>2fafcea783631210dd2e9cb6feaad3c1</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>d80f03fb83231210dd2e9cb6feaad30f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>smes</element>
-            <position>14</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>a3afcea783631210dd2e9cb6feaad3c2</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>500f03fb83231210dd2e9cb6feaad310</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tech_leads</element>
-            <position>15</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>2bafcea783631210dd2e9cb6feaad3c2</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>d40f03fb83231210dd2e9cb6feaad310</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>16</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>afafcea783631210dd2e9cb6feaad3c2</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>5c0f03fb83231210dd2e9cb6feaad310</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>17</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-12 07:45:04</sys_created_on>
-            <sys_id>27afcea783631210dd2e9cb6feaad3c3</sys_id>
+            <sys_created_on>2025-02-13 07:00:13</sys_created_on>
+            <sys_id>d00f03fb83231210dd2e9cb6feaad311</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">5b9dc65383631210dd2e9cb6feaad316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-12 07:45:04</sys_updated_on>
+            <sys_updated_on>2025-02-13 07:00:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

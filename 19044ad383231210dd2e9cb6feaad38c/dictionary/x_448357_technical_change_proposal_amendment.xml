@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="07d3f29383271210dd2e9cb6feaad31b" label="Change Proposal Amendment" max_length="40" name="x_448357_technical_change_proposal_amendment" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Other Risk Changes" max_length="40" name="other_risk_changes" type="boolean"/>
+        <element label="Security Risk Changes" max_length="40" name="security_risk_changes" type="boolean"/>
+        <element label="Change Proposal" max_length="32" name="change_proposal" reference="x_448357_technical_change_proposal" type="reference"/>
+        <element label="Performance Risk Changes" max_length="40" name="performance_risk_changes" type="boolean"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="Amendment" max_length="200" name="amendment" type="string"/>
+        <element label="Agreement on changes" max_length="40" name="agreement_on_changes" type="boolean"/>
+        <element label="Change Details" max_length="4000" name="change_details" type="string"/>
+        <element label="Approved" max_length="40" name="approved" type="boolean"/>
+        <element label="Licensing Implication Changes" max_length="40" name="licensing_implication_changes" type="boolean"/>
+        <element choice="1" default="draft" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="300" value="approved"/>
+                <element inactive_on_update="false" label="Approved with tech debt" sequence="400" value="approved_w"/>
+                <element inactive_on_update="false" label="Rejected" sequence="500" value="rejected"/>
+                <element inactive_on_update="false" label="Requires Rework" sequence="600" value="rework"/>
+                <element inactive_on_update="false" label="Draft" sequence="100" value="draft"/>
+                <element inactive_on_update="false" label="Submitted" sequence="200" value="submitted"/>
+            </choice>
+        </element>
+        <element label="Upgradeability Risk Changes" max_length="40" name="upgradeability_risk_changes" type="boolean"/>
+        <index name="index">
+            <element name="change_proposal"/>
+        </index>
+    </element>
+</database>

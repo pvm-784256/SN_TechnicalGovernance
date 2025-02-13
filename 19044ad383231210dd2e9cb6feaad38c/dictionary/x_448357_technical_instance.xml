@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c48a529383a31210dd2e9cb6feaad3a7" label="Instance" max_length="40" name="x_448357_technical_instance" type="collection">
+        <element label="Name" max_length="20" name="name" type="string"/>
+        <element label="Shortname" max_length="10" name="shortname" type="string"/>
+        <element label="Url" max_length="1024" name="url" type="url"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9bce088483771210dd2e9cb6feaad3f6" label="x_448357_technical_m2m_Governance Meetings_Change Proposals" max_length="40" name="x_448357_technical_m2m_x_448357_tec_x_448357_tec" type="collection">
+        <element attributes="encode_utf8=false" label="Change Proposals" max_length="32" name="x_448357_technical_change_proposal" reference="x_448357_technical_change_proposal" type="reference"/>
+        <element attributes="encode_utf8=false" label="Governance Meetings" max_length="32" name="x_448357_technical_governance_meeting" reference="x_448357_technical_governance_meeting" type="reference"/>
+    </element>
+</database>

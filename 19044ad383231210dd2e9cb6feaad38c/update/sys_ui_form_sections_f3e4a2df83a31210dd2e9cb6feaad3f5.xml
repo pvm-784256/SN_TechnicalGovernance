@@ -70,6 +70,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-02-11 20:01:33</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-12 11:56:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>332947ef83671210dd2e9cb6feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_solution_design" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">f3e4a2df83a31210dd2e9cb6feaad3f5</sys_ui_form>
+            <sys_ui_section caption="Notes &amp; Activity" display_value="Notes &amp; Activity" name="x_448357_technical_solution_design" sys_domain="global" view="Default view">3f2947ef83671210dd2e9cb6feaad3b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-12 11:56:19</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_448357_technical_solution_design</name>
             <roles/>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ec770e1b83231210dd2e9cb6feaad34a" label="Change Proposal Type" max_length="40" name="x_448357_technical_change_proposal_type" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element display="true" label="Name" max_length="200" name="name" type="string"/>
+    </element>
+</database>

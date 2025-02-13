@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="389f040883771210dd2e9cb6feaad36a" sys_domain="global" table="x_448357_technical_governance_meeting" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 11:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>349f040883771210dd2e9cb6feaad36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_governance_meeting" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">389f040883771210dd2e9cb6feaad36a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">017d088483771210dd2e9cb6feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 11:42:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 11:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>309f040883771210dd2e9cb6feaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_governance_meeting" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">389f040883771210dd2e9cb6feaad36a</sys_ui_form>
+            <sys_ui_section caption="Change Proposals" display_value="Change Proposals" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">bc9f040883771210dd2e9cb6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 11:42:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 11:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93afc44883771210dd2e9cb6feaad30d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_governance_meeting" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">389f040883771210dd2e9cb6feaad36a</sys_ui_form>
+            <sys_ui_section caption="Solution Designs" display_value="Solution Designs" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">13afc44883771210dd2e9cb6feaad30b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 11:42:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 13:53:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37ad208c83f71210dd2e9cb6feaad39d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_448357_technical_governance_meeting" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">389f040883771210dd2e9cb6feaad36a</sys_ui_form>
+            <sys_ui_section caption="Notes &amp; Activity" display_value="Notes &amp; Activity" name="x_448357_technical_governance_meeting" sys_domain="global" view="Default view">e3ad208c83f71210dd2e9cb6feaad39a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 13:53:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_448357_technical_governance_meeting</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 11:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>389f040883771210dd2e9cb6feaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448357_technical_governance_meeting</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_389f040883771210dd2e9cb6feaad36a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 11:42:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

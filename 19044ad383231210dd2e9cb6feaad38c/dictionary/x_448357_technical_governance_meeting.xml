@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c573b3f83e31210dd2e9cb6feaad366" label="Governance Meeting" max_length="40" name="x_448357_technical_governance_meeting" type="collection">
+        <element label="Meeting Date" max_length="40" name="meeting_date" type="glide_date_time"/>
+        <element label="Notes" max_length="8000" name="notes" type="html"/>
+        <element label="Attendees" max_length="4000" name="attendees" reference="sys_user" type="glide_list"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Audience" max_length="4000" name="audience" reference="sys_user" type="glide_list"/>
+        <element label="Organizer" max_length="32" name="organizer" reference="sys_user" type="reference"/>
+        <element label="Moderator" max_length="32" name="moderator" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="moderator"/>
+        </index>
+        <index name="index2">
+            <element name="organizer"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_448357_technical_m2m_brdmtg_soldsg" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_448357_technical_governance_meeting</element>
+            <list_id display_value="x_448357_technical_m2m_brdmtg_soldsg" element="NULL" name="x_448357_technical_m2m_brdmtg_soldsg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">487f404883771210dd2e9cb6feaad345</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 11:41:44</sys_created_on>
+            <sys_id>847f404883771210dd2e9cb6feaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 11:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_448357_technical_solution_design</element>
+            <list_id display_value="x_448357_technical_m2m_brdmtg_soldsg" element="NULL" name="x_448357_technical_m2m_brdmtg_soldsg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">487f404883771210dd2e9cb6feaad345</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 11:41:44</sys_created_on>
+            <sys_id>087f404883771210dd2e9cb6feaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 11:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_448357_technical_m2m_brdmtg_soldsg</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 11:41:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>487f404883771210dd2e9cb6feaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448357_technical_m2m_brdmtg_soldsg</sys_name>
+            <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+            <sys_update_name>sys_ui_list_x_448357_technical_m2m_brdmtg_soldsg_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 11:41:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

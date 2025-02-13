@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="x_448357_technical_governance_meeting" relationship="" sys_domain="global" table="x_448357_technical_meeting_topics" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>governance_meeting</element>
+            <list_id display_value="x_448357_technical_meeting_topics" element="NULL" name="x_448357_technical_meeting_topics" parent="x_448357_technical_governance_meeting" relationship="NULL" sys_domain="global" view="Default view">967da08c83f71210dd2e9cb6feaad3e9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 13:52:57</sys_created_on>
+            <sys_id>167da08c83f71210dd2e9cb6feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 13:52:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>topic</element>
+            <list_id display_value="x_448357_technical_meeting_topics" element="NULL" name="x_448357_technical_meeting_topics" parent="x_448357_technical_governance_meeting" relationship="NULL" sys_domain="global" view="Default view">967da08c83f71210dd2e9cb6feaad3e9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 13:52:57</sys_created_on>
+            <sys_id>967da08c83f71210dd2e9cb6feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 13:52:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>allotted_time</element>
+            <list_id display_value="x_448357_technical_meeting_topics" element="NULL" name="x_448357_technical_meeting_topics" parent="x_448357_technical_governance_meeting" relationship="NULL" sys_domain="global" view="Default view">967da08c83f71210dd2e9cb6feaad3e9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 13:52:57</sys_created_on>
+            <sys_id>1a7da08c83f71210dd2e9cb6feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 13:52:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_448357_technical_meeting_topics</name>
+            <parent>x_448357_technical_governance_meeting</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-13 13:52:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>967da08c83f71210dd2e9cb6feaad3e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448357_technical_meeting_topics</sys_name>
+            <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+            <sys_update_name>sys_ui_list_x_448357_technical_meeting_topics_x_448357_technical_governance_meeting_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-13 13:52:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

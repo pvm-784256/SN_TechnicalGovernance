@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Change Proposal</name>
+        <order/>
+        <roles>x_448357_technical.change_proposal_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 12:24:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f7e58ad783231210dd2e9cb6feaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Proposal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+        <sys_update_name>sys_ui_application_f7e58ad783231210dd2e9cb6feaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 12:24:01</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</application>
+        <file_path/>
+        <instance_id>62e9d58fdb99c29402022a59139619f4</instance_id>
+        <instance_name>dev256023</instance_name>
+        <name>sys_ui_application_f7e58ad783231210dd2e9cb6feaad345</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Change Proposal</name><order/><roles>x_448357_technical.change_proposal_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 12:24:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f7e58ad783231210dd2e9cb6feaad345</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Change Proposal</sys_name><sys_overrides/><sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package><sys_policy/><sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope><sys_update_name>sys_ui_application_f7e58ad783231210dd2e9cb6feaad345</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-11 12:24:01</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>1860534141</payload_hash>
+        <record_name>Change Proposal</record_name>
+        <reverted_from/>
+        <source>ed044ad383231210dd2e9cb6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 12:24:01</sys_created_on>
+        <sys_id>3be58ad783231210dd2e9cb6feaad347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f4f765260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 12:24:01</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>3fe58ad757231210ff01832d72afcc46</update_guid>
+        <update_guid_history>3fe58ad757231210ff01832d72afcc46:1860534141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 12:27:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>0cb8f1e173424a889e32bd712b11da19</sys_id>
+        <sys_metadata>f7e58ad783231210dd2e9cb6feaad345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Proposal</sys_name>
+        <sys_package display_value="Technical Governance" source="x_448357_technical">19044ad383231210dd2e9cb6feaad38c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Governance">19044ad383231210dd2e9cb6feaad38c</sys_scope>
+        <sys_scope_delete display_value="">121e42061b8c4a9283bacd18b0955c24</sys_scope_delete>
+        <sys_update_name>sys_ui_application_f7e58ad783231210dd2e9cb6feaad345</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_f7e58ad783231210dd2e9cb6feaad345">3be58ad783231210dd2e9cb6feaad347</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 12:27:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

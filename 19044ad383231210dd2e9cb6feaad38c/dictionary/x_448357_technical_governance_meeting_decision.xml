@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="edd594cc83771210dd2e9cb6feaad386" label="Governance Meeting Decision" max_length="40" name="x_448357_technical_governance_meeting_decision" type="collection">
+        <element label="Solution Design" max_length="32" name="solution_design" reference="x_448357_technical_solution_design" type="reference"/>
+        <element label="Decision" max_length="1000" name="decision" type="string"/>
+        <element label="Governance Meeting" max_length="32" name="governance_meeting" reference="x_448357_technical_governance_meeting" type="reference"/>
+        <element label="Change Proposal" max_length="32" name="change_proposal" reference="x_448357_technical_change_proposal" type="reference"/>
+        <index name="index">
+            <element name="change_proposal"/>
+        </index>
+        <index name="index2">
+            <element name="governance_meeting"/>
+        </index>
+        <index name="index3">
+            <element name="solution_design"/>
+        </index>
+    </element>
+</database>

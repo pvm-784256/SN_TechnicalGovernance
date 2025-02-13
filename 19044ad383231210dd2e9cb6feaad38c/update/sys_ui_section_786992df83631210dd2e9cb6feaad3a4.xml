@@ -4,55 +4,55 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>bb2fef1f832b1210dd2e9cb6feaad354</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>1a4a432383a71210dd2e9cb6feaad33c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>agreement_on_effort</element>
+            <element>approved</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>332fef1f832b1210dd2e9cb6feaad355</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>9e4a432383a71210dd2e9cb6feaad33c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>agreement_on_risk</element>
+            <element>complexity</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>b72fef1f832b1210dd2e9cb6feaad355</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>164a432383a71210dd2e9cb6feaad33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>guardians</element>
+            <element>requires_solution_design</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>3f2fef1f832b1210dd2e9cb6feaad355</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>9a4a432383a71210dd2e9cb6feaad33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,55 +60,55 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>b32fef1f832b1210dd2e9cb6feaad356</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>124a432383a71210dd2e9cb6feaad33e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approved</element>
+            <element>agreement_on_effort</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>3b2fef1f832b1210dd2e9cb6feaad356</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>964a432383a71210dd2e9cb6feaad33e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>complexity</element>
+            <element>agreement_on_risk</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>bf2fef1f832b1210dd2e9cb6feaad356</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>1e4a432383a71210dd2e9cb6feaad33e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requires_solution_design</element>
+            <element>guardians</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>372fef1f832b1210dd2e9cb6feaad357</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>5e4acf2383a71210dd2e9cb6feaad317</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>bb2fef1f832b1210dd2e9cb6feaad357</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>d24acf2383a71210dd2e9cb6feaad318</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>alternative_proposal</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-11 20:03:52</sys_created_on>
-            <sys_id>332fef1f832b1210dd2e9cb6feaad358</sys_id>
+            <sys_created_on>2025-02-12 12:01:07</sys_created_on>
+            <sys_id>5a4acf2383a71210dd2e9cb6feaad318</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Governance Decisions" display_value="Governance Decisions" name="x_448357_technical_change_proposal" sys_domain="global" view="Default view">786992df83631210dd2e9cb6feaad3a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-11 20:03:52</sys_updated_on>
+            <sys_updated_on>2025-02-12 12:01:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

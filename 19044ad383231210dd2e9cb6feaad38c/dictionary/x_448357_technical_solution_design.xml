@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="7a706ad783a31210dd2e9cb6feaad3f0" label="Solution Design" max_length="40" name="x_448357_technical_solution_design" type="collection">
+        <element label="Upgradeablity Impact" max_length="1000" name="upgradeablity_impact" type="string"/>
+        <element label="Solution Description" max_length="8000" name="solution_description" type="html"/>
+        <element label="Architecture Domain" max_length="32" name="architecture_domain" reference="x_448357_technical_architecture_domain" type="reference"/>
+        <element label="Required Modules" max_length="1000" name="required_modules" type="string"/>
+        <element label="Security Impact" max_length="1000" name="security_impact" type="string"/>
+        <element label="Demand" max_length="32" name="demand" reference="task" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Architecture Domains" max_length="4000" name="architecture_domains" reference="x_448357_technical_architecture_domain" type="glide_list"/>
+        <element choice="1" default="draft" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved with tech debt" sequence="400" value="approved_w"/>
+                <element inactive_on_update="false" label="Draft" sequence="100" value="draft"/>
+                <element inactive_on_update="false" label="Requires Rework" sequence="600" value="rework"/>
+                <element inactive_on_update="false" label="Submitted" sequence="200" value="submitted"/>
+                <element inactive_on_update="false" label="Rejected" sequence="500" value="rejected"/>
+                <element inactive_on_update="false" label="Approved" sequence="300" value="approved"/>
+            </choice>
+        </element>
+        <element label="Dependencies" max_length="1000" name="dependencies" type="string"/>
+        <element label="Integrations" max_length="1000" name="integrations" type="string"/>
+        <element label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element label="Configuration Impact" max_length="1000" name="configuration_impact" type="string"/>
+        <element choice="1" label="Complexity" max_length="40" name="complexity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Medium" sequence="200" value="medium"/>
+                <element inactive_on_update="false" label="Low" sequence="100" value="low"/>
+                <element inactive_on_update="false" label="High" sequence="300" value="high"/>
+            </choice>
+        </element>
+        <element label="Tech Leads" max_length="4000" name="tech_leads" reference="sys_user" type="glide_list"/>
+        <element label="Work notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <element label="Diagram" max_length="1024" name="diagram" type="url"/>
+        <element label="Guardians" max_length="4000" name="guardians" reference="sys_user" type="glide_list"/>
+        <element label="Performance Impact" max_length="1000" name="performance_impact" type="string"/>
+        <element label="Name" max_length="200" name="name" type="string"/>
+        <element label="Approved" max_length="40" name="approved" type="boolean"/>
+        <element label="Data Management" max_length="1000" name="data_management" type="string"/>
+        <element label="Licensing Impact" max_length="1000" name="licensing_impact" type="string"/>
+        <element label="Comments and Work notes" max_length="4000" name="comments_and_work_notes" type="journal_list"/>
+        <element label="Data Model" max_length="1000" name="data_model" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="SMEs" max_length="4000" name="smes" reference="sys_user" type="glide_list"/>
+        <element label="Platform Leads" max_length="4000" name="platform_leads" reference="sys_user" type="glide_list"/>
+        <element label="Security Leads" max_length="4000" name="security_leads" reference="sys_user" type="glide_list"/>
+        <index name="index">
+            <element name="architecture_domain"/>
+        </index>
+        <index name="index2">
+            <element name="demand"/>
+        </index>
+        <index name="index3">
+            <element name="requestor"/>
+        </index>
+    </element>
+</database>
